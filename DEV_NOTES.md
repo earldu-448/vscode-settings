@@ -17,3 +17,6 @@ Personal development log — notes, findings, and ongoing work.
 - Tidied up project structure
 - Addressed feedback from self code review
 - Resolved deprecation warnings
+
+## 2026-05-06
+- Verified API endpoint response schema
