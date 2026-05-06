@@ -12,3 +12,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-06
 - Noted known limitation in docs
+
+## 2026-05-06
+- Tidied up project structure
+- Addressed feedback from self code review
+- Resolved deprecation warnings
