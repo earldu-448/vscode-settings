@@ -9,3 +9,6 @@ Personal development log — notes, findings, and ongoing work.
 - Tidied up project structure
 - Fixed off-by-one error in loop
 - Investigated performance bottleneck, noted findings
+
+## 2026-05-06
+- Noted known limitation in docs
